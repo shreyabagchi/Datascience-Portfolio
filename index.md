@@ -20,7 +20,7 @@ This portfolio is a compilation of all my work as a data science student and ent
     This project aims at analysing the customer-shipment data of Church and Dwight and see if any trend or seasonality exists in the late orders. Also, the project wanted us to analyse the factors that were responsible for the later order shipment.
 
 
-4. [**MMA Fighting - Tableau  Visualization**]()
+4. [**MMA Fighting - Tableau  Visualization**](https://github.com/shreyabagchi/Tableau-Visualization)
    This project aimed at visual exploration of the MMA dataset which is a summary of every fight details including the fighter information and the different round statistics. Tableau has been used to analyze every aspect of the fight including a dashboard which gives an overview of the analysis.
 
 
