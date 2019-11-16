@@ -9,17 +9,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**Data Science Portfolio by Shreya Bagchi**
 
-1. Numbered
-2. List
+This portfolio is a compilation of all my work as a data science student. I have worked in a couple of company-based projects as part of externship and some academic projects as part of my master's degree curriculum. I am a student at Rutgers University pursuing a Masters in Busince and Science degree, specializing in Data Science. During my tenure I have worked both in Python and R.I have worked in projects related to data analysis, cleaning, feature engineering and model building. Prior to this, I have 10+ yrs of experience in application development and design in Java/J2EE. I am currently working as a Teaching Assistant at Rutgers for the Fundamental of Analytics course.
+
+**Data Science Projects**
+
+1. **Market Research Analysis using NLP and Sentiment Analysis - OrthoClinical Diagnostics**
+   This project aimed at market research of the varous healthcare products of a company and its competitors. Customer reviews and ratings related to these products were scraped from the different social-media platforms including Twitter, Instagram, Glassdoor etc using Tweepy or BeautifulSoup API. Then the data was cleaned, stopwords were removed, stemming, bag-of-words  created and finally sentiment analysis was done using nltk library.
+[]
+
+2. **Sales Prediction using Multiple Regression Analysis**
+    This project aimed at building a MLR model for predicting the sales of a retail outlet store. We aimed at cleaning the data, exploratory data analysis, feature engineering, outlier detection and removal and finally building a MLR model. Feature selection methods were used like Pearson's correlation coefficient or Forward selection, Backward Elimination and Recursive methods.
+[]
+
+3. **Church and Dwight Late Shipment Data Analysis**
+    
+
 
 **Bold** and _Italic_ and `Code` text
 
