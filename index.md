@@ -1,4 +1,4 @@
-![Rutgers MBS](https://gisandscience.files.wordpress.com/2010/06/rutgers.gif)
+![Rutgers MBS](https://mbs.rutgers.edu/sites/mbslive/files/images/slides/MBS%20finally.jpg)
 
 **Data Science Portfolio of Shreya Bagchi**
 
