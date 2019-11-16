@@ -12,7 +12,7 @@ This portfolio is a compilation of all my work as a data science student and ent
 [Webscraping](https://github.com/shreyabagchi/Webscraping)
 
 
-2. [**Sales Prediction using Multiple Regression Analysis**](https://github.com/shreyabagchi/Outlet-Sales-Prediction--MLR)
+2. [**Sales Prediction using Multiple Linear Regression**](https://github.com/shreyabagchi/Outlet-Sales-Prediction--MLR)
     This project aimed at building a MLR model for predicting the sales of a retail outlet store. We aimed at cleaning the data, exploratory data analysis, feature engineering, outlier detection and removal and finally building a MLR model. Feature selection methods were used like Pearson's correlation coefficient or Forward selection, Backward Elimination and Recursive methods.
 
 
