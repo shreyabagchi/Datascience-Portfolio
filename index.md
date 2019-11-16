@@ -8,7 +8,7 @@ This portfolio is a compilation of all my work as a data science student and ent
 **Data Science Projects**
 
 1. [**Market Research Analysis using NLP and Sentiment Analysis**](https://github.com/shreyabagchi/NLP-and-Sentiment-Analysis)
-   This project aimed at market research of the varous healthcare products of a company and its competitors. Customer reviews and ratings related to these products were scraped from the different social-media platforms including Twitter, Instagram, Glassdoor etc using Tweepy or BeautifulSoup API. Then the data was cleaned, stopwords were removed, stemming, bag-of-words  created and finally sentiment analysis was done using nltk library.
+   This project aimed at market research of the varous healthcare products of a company and its competitors. Customer reviews and ratings related to these products were scraped from the different social-media platforms including Twitter, Instagram, Glassdoor etc. Tweepy API/ Beautiful Soup has been used for data scraping. Then the data was cleaned, stopwords removed, stemming and lemmatization was performed on the data, and finally sentiment scores were calculated and analyzed. The code for webscraping can be found in the below link.
 [Webscraping](https://github.com/shreyabagchi/Webscraping)
 
 
