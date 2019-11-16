@@ -2,8 +2,8 @@
 
 **Data Science Portfolio of Shreya Bagchi**
 
-This portfolio is a compilation of all my work as a data science student and enthusiast. I have worked in a couple of externship projects and some academic projects as part of my master's degree curriculum. I am a student at Rutgers University pursuing a Masters in Busince and Science degree, specializing in Data Science. During the tenure I have worked in Python, R, PySpark and Tableau.I have worked in projects related to data analysis, cleaning, feature engineering and model building.
-
+This portfolio is a compilation of all my work as a data science student and enthusiast. I am a student at Rutgers University pursuing a Masters in Business and Science degree, specializing in Data Science. During this tenure I have worked in projects related to data analysis, data-cleaning, feature engineering and model building.I have used technologies like Python, R, PySpark and Tableau.
+In addition to this, I also have 10+ years of experience in application design and development using Java/J2EE and web-related technologies.
 
 **Data Science Projects**
 
