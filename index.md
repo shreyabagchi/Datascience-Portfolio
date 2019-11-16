@@ -7,7 +7,7 @@ This portfolio is a compilation of all my work as a data science student and ent
 
 1. **Market Research Analysis using NLP and Sentiment Analysis**
    This project aimed at market research of the varous healthcare products of a company and its competitors. Customer reviews and ratings related to these products were scraped from the different social-media platforms including Twitter, Instagram, Glassdoor etc using Tweepy or BeautifulSoup API. Then the data was cleaned, stopwords were removed, stemming, bag-of-words  created and finally sentiment analysis was done using nltk library.
-[]
+[https://github.com/shreyabagchi/NLP-Code]
 
 2. **Sales Prediction using Multiple Regression Analysis**
     This project aimed at building a MLR model for predicting the sales of a retail outlet store. We aimed at cleaning the data, exploratory data analysis, feature engineering, outlier detection and removal and finally building a MLR model. Feature selection methods were used like Pearson's correlation coefficient or Forward selection, Backward Elimination and Recursive methods.
