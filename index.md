@@ -1,4 +1,6 @@
+**Data Science Portfolio of Shreya Bagchi**
 
+This portfolio is a compilation of all my work as a data science student and enthusiast. I have worked in a couple of externship projects and some academic projects as part of my master's degree curriculum. I am a student at Rutgers University pursuing a Masters in Busince and Science degree, specializing in Data Science. During the tenure I have worked in Python, R, PySpark and Tableau.I have worked in projects related to data analysis, cleaning, feature engineering and model building.
 
 
 **Data Science Projects**
@@ -22,10 +24,3 @@
 ```
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shreyabagchi/datascience-career/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
