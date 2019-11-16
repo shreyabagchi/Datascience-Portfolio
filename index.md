@@ -1,5 +1,4 @@
 ![Rutgers MBS](https://mbs.rutgers.edu/sites/mbslive/files/images/slides/MBS%20finally.jpg)
-![Data Science](https://blog.alexa.com/wp-content/uploads/2014/11/Data-Science_FB.jpeg)
 
 **Data Science Portfolio of Shreya Bagchi**
 
@@ -21,6 +20,7 @@ This portfolio is a compilation of all my work as a data science student and ent
     This project aimed at analysing the customer-shipment data of Church and Dwight and see if any trend or seasonality exists in the late orders. Also, the project wanted us to analyse the factors that were responsible for the later order shipment.
 
 
-4. 
+4. [**MMA Fighting - Tableau  Visualization**]()
+
 
 
