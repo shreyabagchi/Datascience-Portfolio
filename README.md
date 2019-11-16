@@ -1,3 +1,3 @@
-# datascience-career
+# My Data Science journey
 My journey to the field of data science
 This Portfolio is a combination of ....
